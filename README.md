@@ -1,2 +1,2 @@
 # java_practice
-## javaの練習用です
+## javaの練習です
